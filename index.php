@@ -6,6 +6,8 @@
  * @package WordPress
  */
 
+include("wejnswpwhitespacefix.php");
+
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
